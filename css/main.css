@@ -1,0 +1,139 @@
+body {
+    background-image: url("sandpaper.png");
+}
+#content-area {
+	
+}
+
+.form-width {
+    width: 89%;
+	padding: 0px 9px;
+}
+.all-content aside.left-menu {
+  background: #4066a3;
+  font-size: 25px;
+  padding: 30px 50px 10px 10px;
+}
+.left-menu .nav li {
+  border-bottom: 1px solid #ccc;
+}
+.left-menu .nav li a {
+	font-family: "Lato", sans-serif;
+	font-weight: 300;
+	color: #ddd;
+	padding: 20px;
+}
+.left-menu .nav li a:hover {
+	color: #000;
+	transition: 0.5s all ease;
+}
+.menu-heading {
+	color: #ddd;
+	background-color: #003366;
+	text-align: center;
+	border: 1px solid #ddd;
+	padding: 15px;
+}
+.left-menu .nav li a i {
+	color: #ddd;
+	font-size: 25px;
+	padding: 0 15px;
+}
+
+.nav li:last-child {
+	border: none;
+}
+.left-menu {
+	float: left;
+	margin-left: -30px;
+}
+.st-info-form {
+	background-color: #DDD;
+	border: 1px solid #CCC;
+	box-shadow: 2px 0px 1px 1px #CCC, 3px 1px 5px 7px #DDD;
+	padding: 10px;
+	width: 70%;
+	margin: -578px 0px 0px 514px;
+}
+.l-height {
+	line-height: 30px;
+	padding: 7px 0;
+	display: inline-block;
+}
+.form-title {
+	border-bottom: 1px solid #a0a0a0;
+	color: #016773;
+	font-family: "";
+	font-size: 25px;
+	padding-bottom: 5px;
+	text-align: center;
+	text-transform: uppercase;
+	margin-top: 5px;
+	margin-bottom: 15px;
+
+}
+label[for="roll"], label[for="semester"], label[for="department"]{
+	font-size: 24px;
+	color: #016773;
+	padding: 5px 0;
+	font-weight: normal;
+	font-family: "";
+}
+.submit-form2 input[type="text"]{
+	padding: 0px 9px;
+	border: 1px solid #CCC;
+	width: 347px;
+	height: 40px;
+	text-align: center;
+	font-size: 25px;
+}
+input[type="text"] {
+	padding: 0px 9px;
+	border: 1px solid #CCC;
+	height: 40px;
+	text-align: center;
+	font-size: 25px;
+}
+input[type="submit"] {
+	border: 1px solid #CCC;
+	color: #016773;
+	font-size: 19px;
+	margin-top: -61px;
+	padding: 0px 10px;
+	float: right;
+	margin-right: -106px;
+}
+input[type="submit"]:hover {
+	transition: 1s all ease;
+	background: #85D9E3;
+	color: #ddd;
+}
+input[type="text"]:focus {
+    border: 1px solid #CCC;
+    box-shadow: 0px 0px 6px 2px #CCC;
+}
+
+
+/*************************************************/
+/************* Logout ***********************/
+
+.sub-logout {
+	background-color: #428bca;
+	border-radius: 10%;
+	box-shadow: 1px 2px 3px 3px gray;
+	color: #ddd;
+	float: right;
+	font-size: 16px;
+	margin-right: 43px;
+	margin-top: -63px;
+	padding: 7px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+a.sub-logout:hover {
+	text-decoration: none;
+	background-color: #4A7CA7;
+	transition: 1s linear all;
+}
+.table{margin: 0 auto;
+width: 85%;}

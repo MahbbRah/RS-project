@@ -1,0 +1,264 @@
+.submit-form{
+	background-color: #DDD;
+	border: 1px solid #CCC;
+	box-shadow: 2px 0px 1px 1px #CCC, 3px 1px 5px 7px #DDD;
+	padding: 10px;
+	width: 70%;
+	margin: -408px 0px 0px 514px;
+}
+.submit-form2{
+	background-color: #DDD;
+	border: 1px solid #CCC;
+	box-shadow: 2px 0px 1px 1px #CCC, 3px 1px 5px 7px #DDD;
+	padding: 10px;
+	width: 70%;
+	margin: -604px 0px 0px 514px;
+}
+.submit-form2 .dept-title{
+	color: #016773;
+	font-family: "";
+	font-size: 25px;
+	padding-bottom: 0px;
+	text-align: center;
+	text-transform: uppercase;
+	border-bottom: 2px solid #BFA5A5;
+	padding-bottom: 12px;
+}
+.dept-title {
+    color: #016773;
+    font-family: "";
+    font-size: 25px;
+    padding-bottom: 0px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+}
+.seme-title{
+	color: #016773;
+	font-family: "";
+	font-size: 21px;
+	padding-top: 0px;
+	padding-bottom: 5px;
+	text-align: center;
+	text-transform: uppercase;
+	border-bottom: 1px solid #A0A0A0;
+}
+.form-group{
+	margin-bottom: 15px;
+	float: left;
+}
+.form-width{
+	padding: 0px 60px;
+	height: 48px;
+	font-size: 20px;
+	text-align: center;
+	color: #72A27B;
+	font-weight: bold;
+}
+select#tpi.form-control.form-width>option{
+	text-align: left;
+	font-size: 18px;
+	background: #C2ECDB none repeat scroll 0% 0%;
+	color: #2C5F36;
+	padding: 5px 0px 5px 20px;
+	border-bottom: 1px solid silver;
+	border-top: 1px solid silver;
+}
+.form-group2 input[type="text"] {
+    padding: 0px 10px;
+    border: 1px solid #CCC;
+    height: 40px;
+    font-size: 18px;
+	text-align: center;
+	width: 74px;
+}
+.form-group3 .input{
+	padding: 0px 10px;
+	border: 1px solid #CCC;
+	height: 40px;
+	font-size: 18px;
+	text-align: center;
+	width: 170px;
+}
+.form-group3 input[type="submit"] {
+    border: 1px solid #CCC;
+	color: #016773;
+	float: right;
+	font-size: 17px;
+	margin-right: 107px;
+	margin-top: 0px;
+	padding: 4px 11px;
+	font-weight: bold;
+	box-shadow: 2px 2px 2px;
+	border-radius: 10px;
+}
+.form-group3 select{
+	width: 311px;
+	height: 42px;
+	font-size: 17px;
+	font-weight: bold;
+	color: rgb(120, 120, 141);
+	padding-left: 10px;
+}
+div.form-group3>select>option{
+	padding: 5px 10px;
+	border-bottom: 1px inset;
+}
+.form-group4 select{
+	height: 35px;
+	padding: 4px 21px;
+	font-weight: bold;
+	font-size: 17px;
+	background: #E7E4DE;
+	margin-left: 25px;
+}
+.form-group4 input[type="submit"] {
+    border: 1px solid #CCC;
+    color: #016773;
+    font-size: 19px;
+    margin-top: -1px;
+    padding: 0px 16px;
+    float: right;
+    margin-right: -121px;
+}
+.table td a img{
+	width: 24px;
+	height: 20px;
+	border-radius: 6px;
+}
+.form-group23 {
+	margin-top: 32px;
+    padding: 10px;
+}
+.form-group23 input[type="submit"] {
+    border: 1px solid #ccc;
+    color: #016773;
+    float: right;
+    font-size: 19px;
+    margin-right: 54px;
+    margin-top: -24px;
+    padding: 4px 20px;
+	font-weight: bold;
+	box-shadow: 2px 2px 2px;
+	border-radius: 10px;
+}
+.sub-name2{
+	font-size: 21px;
+	color: #016773;
+	padding: 5px 0px;
+	font-weight: normal;
+	font-family: "";
+	width: 245px;
+
+}
+.not-found {
+	text-align: center;
+	margin-top: 30px;
+	color: #016773;
+}
+
+/*************************************************/
+/************* All Subject ***********************/
+
+.submit-form-sub{
+	background-color: #DDD;
+	border: 1px solid #CCC;
+	box-shadow: 2px 0px 1px 1px #CCC, 3px 1px 5px 7px #DDD;
+	padding: 10px;
+}
+
+.sub-table {
+	text-align: center;
+	margin: 0 auto;
+	background: #D3D4D2;
+}
+.sub-table tr {}
+.sub-table tr th {
+	padding: 15px;
+	border: 2px solid #c8c8c8;
+	text-align: center;
+	color: #6086c2;
+	font-size: 18px;
+	font-family: "Lato",sans-serif;
+	background: none repeat scroll 0% 0% rgb(227, 229, 230);
+}
+.sub-table tr td {
+	border: 1px solid #ccc;
+	padding: 10px;
+	font-size: 16px;
+	background: #DADADA;
+}
+.form-group2 {
+	margin-top: 28px;
+}
+.sub-form-sub{
+    background-color: #DDD;
+    border: 1px solid #CCC;
+    box-shadow: 2px 0px 1px 1px #CCC, 3px 1px 5px 7px #DDD;
+    padding: 10px;
+}
+
+/***************** welcome *************************/
+.welcome {
+    text-align: center;
+    padding: 72px 0;
+    font-size: 64px;
+    color: #4e4e4e;
+    text-shadow: 6px 0px 4px #6B5837;
+}
+
+/*****************student insert**********************/
+
+.st-info-form2 {
+	background-color: #DDD;
+	border: 1px solid #CCC;
+	box-shadow: 2px 0px 1px 1px #CCC, 3px 1px 5px 7px #DDD;
+	padding: 10px;
+	width: 70%;
+}
+
+/********************mark insert***********************/
+.sub-name{
+	font-size: 21px;
+	color: #016773;
+	padding: 5px 0px;
+	font-weight: normal;
+	font-family: "";
+	width: 117px;
+	margin-left: 116px;
+
+}
+/*******************student information submit**********************/
+.submit-info {
+    background-color: #DDD;
+    border: 1px solid #CCC;
+    box-shadow: 2px 0px 1px 1px #CCC, 3px 1px 5px 7px #DDD;
+    padding: 10px;
+    width: 70%;
+    margin: -585px 0px 0px 514px;
+}
+.submit-info select {
+    width: 311px;
+	height: 39px;
+	font-size: 17px;
+	font-weight: bold;
+	color: #78788D;
+	padding-left: 10px;
+	}
+
+/***************************student edit*************************************/
+.submit-info-edit {
+    background-color: #DDD;
+    border: 1px solid #CCC;
+    box-shadow: 2px 0px 1px 1px #CCC, 3px 1px 5px 7px #DDD;
+    padding: 10px;
+    width: 70%;
+}
+.submit-info-edit2{
+    background-color: #DDD;
+    border: 1px solid #CCC;
+    box-shadow: 2px 0px 1px 1px #CCC, 3px 1px 5px 7px #DDD;
+    padding: 10px;
+    width: 70%;
+    margin-top: 8px;
+}
