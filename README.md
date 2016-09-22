@@ -8,7 +8,6 @@ To use this app simply edit db_config.php file and replace database credentials 
 	3. You need to add students first to use this app for result purpose
 	
 # Note
-This Project was created for Thakurgaon Polytechnic Institue and there is some Algorithm problem. So that's why this project is not
-production. We made this project publicly so you can learn from this project.
+This Project was created for Thakurgaon Polytechnic Institue and there is some Algorithm problem. So that's why this project is not in production. We made this project publicly so you can learn from this project.
 # Support
-If you found this useful or if you have problem with this app then simply send me your query: mahbub.meh@gmail.com
+If you found this useful or if you have problem with this app while using then simply send me your query: mahbub.meh@gmail.com
